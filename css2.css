@@ -1,0 +1,161 @@
+body {
+    background-color:  rgba(255,123,84,255);
+  }
+  .nav{
+    border-color: rgba(225, 230, 230, 1);
+    border-style: solid;
+   
+    position: absolute;
+width: 1522px;
+height: 70px;
+left:6px;
+top: 9px;
+border-radius: 25px;
+background-color: rgba(147,155,98,255);
+  }
+  .titre{
+
+    position: absolute;
+width: 461px;
+height: 60px;
+left: 30px;
+top: -52px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 65px;
+
+color: #2B2B43;
+
+border: 2px solid #939B62;
+  }
+  .menu{
+    position: absolute;
+width: 641px;
+height: 60px;
+left: 692px;
+top: 04px;
+display: flex;
+margin-left: 150px;
+
+  }
+  .a{
+
+
+  }
+  .z{
+    margin-left: 53px;
+    
+  }
+  .e{
+
+    margin-left: 64px;
+  }
+  .c2{
+
+    box-sizing: border-box;
+
+position: absolute;
+width: 731px;
+height: 658px;
+left: 9px;
+top: 90px;
+margin-left: 15px;
+
+background: rgba(255, 178, 107, 0.9);
+opacity: 0.9;
+border: 3px solid #EBDCC3;
+border-radius: 16px;
+  }
+  .c3{
+    position: absolute;
+width: 732px;
+height: 652px;
+left: 719px;
+top: 90px;
+margin-left: 50px;
+background: rgba(255, 178, 107, 0.9);
+opacity: 0.9;
+border: 3px solid #EBDCC3;
+border-radius: 16px;
+  }
+
+  /* imgbin_inventory-management-software-warehouse-management-system-inventory-control-png 1 */
+
+.im1{
+/* imgbin_inventory-management-software-warehouse-management-system-inventory-control-png 1 */
+
+position: absolute;
+width: 684px;
+height: 514px;
+left: 30px;
+top: 29px;
+
+background: url(imgbin_inventory-management-software-warehouse-management-system-inventory-control-png.png);
+
+
+
+}
+.im2{
+    /* imgbin_inventory-management-software-warehouse-management-system-inventory-control-png 1 */
+    
+    position: absolute;
+    width: 684px;
+    height: 514px;
+    left: 30px;
+    top: 29px;
+    
+    background: url(imgbin_inventory-management-software-warehouse-management-system-inventory-control-png.png);
+    
+    
+    
+    }
+.bb{
+
+    /* Rectangle 28 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 233px;
+height: 62px;
+left: 440px;
+top: 646px;
+
+background: #939B62;
+border: 3px solid #C4C4C4;
+border-radius: 16px;
+
+}
+.bbb{
+
+    /* Rectangle 28 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 233px;
+height: 62px;
+left: 440px;
+top: 550px;
+
+background: #939B62;
+border: 3px solid #C4C4C4;
+border-radius: 16px;
+
+}
+.mm{
+
+    /* imgbin_inventory-management-software-warehouse-management-system-inventory-control-png 1 */
+
+position: absolute;
+width: 54px;
+height: 54px;
+left: 580px;
+top: 5px;
+
+background: url(imgbin_inventory-management-software-warehouse-management-system-inventory-control-png.png);
+
+}

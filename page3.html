@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>page3</title>
+    <link rel="stylesheet" href="./mystyle.css">
+
+</head>
+
+<body>
+    <div class="page-3 screen">
+        <div class="overlap-group7">
+            <div class="rectangle-24"></div>
+            <div class="gestion-des-dons">Gestion des Dons</div>
+            <div class="search-bar">
+                <div class="overlap-group1">
+                    <h1 class="lespoir-des-pauvres">L'espoir des pauvres </h1>
+                    <div class="navbar">
+                        <a href="page2.html"> 
+                        <div class="navbar-link-surname nunito-extra-bold-ebony-clay-20px">PAGE D'ACCEUIL  </div>
+                        <a href="page2.html"> 
+                            <img class="line-3" src="./line-3@2x.svg" />
+                          </a>
+                        
+                        <div class="navbar-link-categories nunito-extra-bold-ebony-clay-20px">CATEGORIES</div>
+                        <img class="line-4" src="./line-4@2x.svg" />
+                        <div class="navbar-link-dons nunito-extra-bold-ebony-clay-20px">DONS</div>
+                        <img class="line-5" src="./line-5@2x.svg" />
+                        <div class="navbar-link-propositions nunito-extra-bold-ebony-clay-20px">PROPOSITIONS</div>
+                    </div>
+                    <div class="avatar">
+                        <div class="overlap-group-avatar">
+                            <img class="avatar-other-main-avatar" src="./avatar---other---main-avatar@2x.svg" />
+                        </div>
+                    </div>
+                </div>
+                <div class="overlap-group3">
+                    <div class="search-container">
+                        <div class="search">Search. . .</div>
+                        <img class="search-1" src="./search-1@2x.svg" />
+                    </div>
+                </div>
+            </div>
+            <div class="add-prop">
+                <div class="overlap-group-add-prop">
+                    <div class="ajouter-un-don">
+                        <button class="FORMopen-button" onclick="openForm()">Ajouter un Don</button>
+                    </div>
+                </div>
+            </div>
+            <div class="overlap-group4">
+                <div class="rectangle-30"></div>
+                <div class="blue-check-overlap-group4">
+                    <img class="kisspng-check-mark-s" src="./check-mark.png" />
+                </div>
+                <div class="red-cross-overlap-group4">
+                    <img class="kisspng-arrow-comput-1" src="./cross-mark.png" />
+                </div>
+                <div class="red-cross-overlap-group4">
+                    <img class="kisspng-arrow-comput-1" src="./cross-mark.png" />
+                </div>
+                <img class="wooden-table" src="./wooden-table.jpg" />
+                <div class="text-for-props-overlap-group4">
+                    <div class="table nunito-medium-ebony-clay-40px">TABLE</div>
+                    <div class="descriptlon-1 montserrat-medium-ebony-clay-24px">DESCRIPTION</div>
+                    <p class="lorem-ipsum-dolor-si-1 nunito-medium-black-24px">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                        eiusmod tempor incididunt ut
+                    </p>
+                </div>
+            </div>
+            <div class="overlap-group5">
+                <div class="rectangle-30"></div>
+                <div class="blue-check-overlap-group5">
+                    <img class="kisspng-check-mark-s" src="./check-mark.png" />
+                </div>
+                <div class="red-cross-overlap-group5">
+                    <img class="kisspng-arrow-comput-2" src="./cross-mark.png" />
+                </div>
+                <img class="black-tshirt" src="./black-shirt.jpg" />
+                <div class="text-for-props-overlap-group5">
+                    <div class="t-shirt nunito-medium-ebony-clay-40px">T-SHIRT</div>
+                    <div class="description-2 montserrat-medium-ebony-clay-24px">DESCRIPTION</div>
+                    <p class="lorem-ipsum-dolor-si-2 nunito-medium-black-24px">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                        eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+            </div>
+            <div class="overlap-group6">
+                <div class="rectangle-30"></div>
+                <div class="blue-check-overlap-group6">
+                    <img class="kisspng-check-mark-s" src="./check-mark.png" />
+                </div>
+                <div class="red-cross-overlap-group6">
+                    <img class="kisspng-arrow-comput-3" src="./cross-mark.png" />
+                </div>
+                <img class="plasma-tv" src="./plasmaTV.jpg" />
+                <div class="overlap-group-overlap-group6">
+                    <div class="description-3 montserrat-medium-ebony-clay-24px">DESCRIPTION</div>
+                    <div class="ecran-plasma nunito-medium-ebony-clay-40px">ECRAN PLASMA </div>
+                    <p class="lorem-ipsum-dolor-si-3 nunito-medium-black-24px"> some sort of description here</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="FORMpop-up-frame screen" id="myForm">
+        <div class="FORMpop-up-frame-1">
+            <form action="ajouterArticle.php" method="post" class="FORMform-container">
+                <h1 class="FORMtitle">Ajouter un Produit</h1>
+                <div class="FORMcategorie nunito-bold-white-36px">Categorie</div>
+                <div class="FORMoverlap-group">
+                    <div class="FORMrectangle-3">
+                        <div class="FORMcustom-select" style="width:200px;">
+                            <select>
+                                <option value="">meuble</option>
+                                <option value="">electro</option>
+                                <option value="">vetement</option>
+                                <option value="">food</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="FORMnature-materiel nunito-bold-white-36px">Nature Materiel</div>
+                </div>
+                <div class="FORMoverlap-group">
+                    <div class="FORMrectangle-3">
+                        <div class="FORMfieldForText">
+                            <input type="text" name="naturemateriel" id="NatMat" placeholder="Bois">
+                        </div>
+                    </div>
+                    <div class="FORMreference nunito-bold-white-36px">Reference</div>
+                </div>
+                <div class="FORMoverlap-group">
+                    <div class="FORMrectangle-3">
+                        <div class="FORMfieldForText">
+                            <input type="text" name="ref" id="RefRef" placeholder="Ref">
+                        </div>
+                    </div>
+                    <div class="FORMdescription nunito-bold-white-36px ">Description</div>
+                </div>
+                <div class="FORMrectangle-39">
+                    <div class="FORMdesc">
+                        <textarea name="description-zone" id="desc" cols="30" rows="9"></textarea>
+                    </div>
+                </div>
+                <button type="submit" id="confirmAdd">Ajouter</button>
+            </form>
+        </div>
+    </div>
+    <script>
+        function openForm() {
+            document.getElementById("myForm").style.display = "block";
+        }
+        function closeForm() {
+            document.getElementById("myForm").style.display = "none";
+        }
+        window.onclick = function (event) {
+            if (event.target.className === "FORMpop-up-frame screen") {
+                event.target.style.display = "none";
+            }
+        };
+    </script>
+</body>
+
+</html>

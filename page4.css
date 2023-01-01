@@ -1,0 +1,398 @@
+@import url("https://fonts.googleapis.com/css? family=Nunito: 400, 700, 800 | Montserrat:400, 500");
+.page-4 {
+align-items: flex-start;
+background-color: #ff7b54;
+border: 1px none;
+display: flex;
+flex-direction: column;
+gap: 10px;
+height: 1312px;
+padding: 9px;
+width: 1475px;
+}
+.hidden,
+.hidden * {
+pointer-events: none;
+visibility: hidden;
+}
+.nav-bar {
+
+align-items: flex-start;
+display: flex;
+min-width: 1424px;
+}
+.overlap-group1 {
+
+align-items: center;
+background-color: var(--avocado);
+border: 3px solid;
+border-color: #e1e6e6;
+border-radius: 16px;
+display: flex;
+height: 111px;
+min-width: 1422px;
+padding: 13px 16px;
+}
+.navbar {
+    align-items: center; display: flex;
+    margin-bottom: 7px;
+    margin-left: 153px;
+    min-width: 649px;
+    }
+    .line-5 {
+    height: 60px;
+    margin-left: 23px;
+    object-fit: cover;
+    width: 1px;
+    }
+    .line-3 {
+    
+    height: 60px;
+    margin-left: 21px;
+    object-fit: cover;
+    width: 1px;}
+    .navbar-link-surname {
+    letter-spacing: 0; line-height: normal;
+    margin-top: 9px;
+    min-height: 27px;
+    min-width: 165px;
+    }
+    .navbar-link-categories {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 23px;
+    margin-top: 9px;
+    min-height: 27px;
+    min-width: 127px;
+    }
+    .navbar-link-dons {
+        letter-spacing: 0; line-height: normal;
+        margin-left: 18px;
+        margin-top: 9px;
+        min-height: 27px;
+        min-width: 60px;
+        }
+        .navbar-link-propositions {
+        letter-spacing: 0;
+        line-height: normal;
+        margin-left: 21px;
+        margin-top: 9px;
+        min-height: 27px;
+        min-width: 154px;
+        }
+        
+        .line-4{
+        height: 60px;
+        margin-left: 26px;
+        object-fit: cover;
+        width: 1px;}
+        .lespoir-des-pauvres {
+        -webkit-text-stroke: 2px var(--avocado);
+        color: var(--ebony-clay);
+        font-family: var(--font-family-nunito); font-size: var(--font-size-x1);
+        font-weight: 800;
+        letter-spacing: 0;
+        line-height: normal;
+        margin-bottom: 11px;
+        min-height: 60px; width: 461px;
+        }
+        .avatar {
+            align-items: flex-start; align-self: flex-start; background-color: var(--alto);
+            border-radius: 16px;
+            display: flex;
+            height: 79px;
+            margin-left: 45px;
+            min-width: 79px;
+            padding: 2.8px;
+            }
+            .overlap-group-2 {
+            align-items: flex-end;
+            background-color: var(--white);
+            border-radius: 16px;
+            display: flex;
+            height: 73px;
+            justify-content: flex-end;
+            min-width: 73px;
+            padding: 2.8px;
+            }
+            .avatar-other-main-avatar {
+            height: 68px;
+            width: 68px;
+            }
+            .overlap-group12 {
+            height: 1045px;
+            position: relative;
+            width: 1423px;
+            }
+            .search-bar {
+            align-items: flex-start;
+            background-color: #ffd56b;
+            border-radius: 16px;
+            display: flex;
+            height: 61px;
+            justify-content: flex-end;
+            left: 21px;
+            min-width: 1369px;
+            padding : 11px 15.9px;
+            position: absolute;
+            top : 100px;
+        }
+        .search-container { align-items: flex-start; background-color: var(--white);
+        
+        border: 1px solid;
+        border-color: var(--alto);
+        border-radius: 8px;
+        display: flex; gap: 133px;
+        height: 37px;
+        min-width: 248px;
+        padding: 8.1px 14.2px;}
+        .search-1 {
+        align-self: center;
+        height: 14px;
+        margin-bottom: 3.01px;
+        width: 16px;
+        }
+        .search {
+        color: #c4c4c4;
+        font-family: var (--font-family-montserrat); font-size: var(--font-size-xs);
+        font-weight: 400;
+        letter-spacing: 0;
+        line-height: normal;
+        min-height: 17px;
+        width: 67px;
+        }
+        .overlap-group3 {
+        align-items: flex-start;
+        background-color: var(--almond);
+        border-radius: 16px;
+        display: flex;
+        height: 269px;
+        justify-content: flex-end;
+        left: 21px;
+        min-width: 1369px;
+        padding: 17px 16px;
+        position: absolute;
+        top:171px;
+    }
+    .meuble-1 { align-self: center; height: 219px;
+        object-fit: cover;
+        width: 350px;
+        }
+        .meubles {
+        letter-spacing: 0;
+        line-height: normal;
+        margin-left: 26px;
+        margin-top: 6px;
+        min-height: 65px;
+        min-width: 189px;
+        }
+        .flex-col-overlap-group3 { align-items: flex-start; align-self: flex-end; display: flex;
+        flex-direction: column;
+        gap: 19px;
+        margin-left: 655px;
+        min-height: 229px;
+        width: 105px;
+        }
+        .blue-check {
+        background-color: var(--waikawa-gray);
+        border-radius: 20px;
+        height: 105px;
+        width: 105px;
+        }
+        .red-cross {
+        align-items: flex-start;
+        background-color: var(--salmon);
+        border-radius: 20px;
+        display: flex;
+        height: 105px;
+        min-width: 105px;
+        padding: 16.9px;
+        }
+        .kisspng-arrow-comput { height: 71px; object-fit: cover; width: 71px;
+        }
+        .kisspng-computer-ico-3 {
+        height: 68px;
+        left: 1277px;
+        object-fit: cover;
+        position: absolute;
+        top: 791px;
+        width: 80px;
+        }
+        .quantity-2 {
+        align-items: flex-start;
+        display: flex;
+        gap: 17px;
+        height: 84px;
+        left: 422px;
+        min-width: 316px;
+        position: absolute; top: 618px;
+        }
+        .overlap-group-3,
+        .overlap-group-4,
+        .overlap-group-5 {
+        
+        align-items: flex-end;
+        background-color: var(--lightning-yellow);
+        border-radius: 30px;
+        display: flex;
+        height: 82px;
+        min-width: 211px;
+        padding: 13px 24px;}
+        .quantit {
+            letter-spacing: 0; line-height: normal;
+            min-height: 55px;
+            min-width: 156px;
+            }
+            .overlap-group-1 {
+            
+            align-items: flex-end;
+            align-self: flex-end;
+            background-color: var(--lightning-yellow);
+            border-radius: 30px;
+            display: flex;
+            height: 82px;
+            min-width: 84px;
+            padding: 8px 13px;}
+            .number {
+            letter-spacing: 0;
+            line-height: normal;
+            min-height: 65px;
+            min-width: 58px;
+            }
+            .quantity-3 {
+            align-items: flex-start;
+            display: flex;
+            gap: 17px;
+            height: 84px;
+            left: 422px;
+            min-width: 316px;
+            position: absolute;
+            top: 870px;
+            }
+            .overlap-group2 {
+            align-items: flex-start;
+            background-color: var(--avocado);
+            border-radius: 4px;
+            display: flex;
+            height: 57px;
+            justify-content: flex-end;
+            left:1170px;
+            min-width: 251px;
+            padding: 16.7px 22.8px;
+            position: absolute;
+            top: 81px;
+            }
+            .ajouter-une-catgorie { color: var(--white);
+            
+            font-family: var(--font-family-montserrat); font-size: var(--font-size-xs);
+            font-weight: 500; letter-spacing: 0;
+            line-height: normal;
+            min-height: 22px; width: 184px;}
+            .overlap-group5 {
+            align-items: flex-start;
+            background-color: var(--almond);
+            border-radius: 16px;
+            display: flex;
+            height: 269px; left: 18px;
+            min-width: 1369px;
+            padding: 7px 16px;
+            position: absolute;
+            top: 749px;
+            }
+            .vtements {
+            letter-spacing: 0;
+            line-height: normal;
+            margin-left: 38px;
+            margin-top: 16px;
+            min-height: 65px;
+            min-width: 240px;
+            }
+            .x526-5261754_drawing {
+            align-self: flex-end;
+            height: 239px;
+            object-fit: cover;
+            width: 350px;
+            }
+            .flex-col-overlap-group5 { align-items: flex-start; align-self: center; display: flex;
+                flex-direction: column;
+                gap: 19px;
+                margin-left: 604px;
+                margin-top: 6px;
+                min-height: 229px;
+                width: 105px;
+                }
+                .quantity-1 {
+                align-items: flex-start;
+                display: flex;
+                gap: 17px;
+                height: 84px;
+                left: 422px;
+                min-width: 316px;
+                position: absolute;
+                top: 333px;
+                }
+                .kisspng-computer-ico-1 {
+                height: 68px;
+                left: 1279px;
+                object-fit: cover;
+                position: absolute;
+                top: 212px;
+                width: 80px;
+                }
+                .rectangle-24 {
+                background-color:
+                1#ffb26be6;
+                border: 3px solid;
+                border-color: var(--almond);
+                border-radius: 16px;
+                height: 1045px;
+                left: 0;
+                opacity: 0.9;
+                position: absolute;
+                top: 0;
+                width: 1422px;}
+            
+            .gestion-des-catgories {
+            color: var(--ebony-clay);
+            font-family: var(--font-family-nunito); font-size: var(--font-size-1);
+            font-weight: 700;
+            left: 34px; letter-spacing: 0;
+            line-height: normal; position: absolute; top: 29px;}
+            .overlap-group4 {
+            align-items: flex-start; background-color: var(--almond);
+            border-radius: 16px;
+            display: flex;
+            height: 269px;
+            justify-content: flex-end;
+            left: 21px;
+            min-width: 1369px;
+            padding: 6px 16px;
+            position: absolute;
+            top: 460px;
+            }
+            .flex-col-overlap-group4 { align-items: flex-start; align-self: center; display: flex;
+            flex-direction: column;
+            gap: 19px;
+            margin-left: 490px;
+            margin-top: 6px;
+            min-height: 229px;
+            width: 105px;
+            }
+            .electromnager {
+letter-spacing: 0;
+line-height: normal;
+margin-left: 29px;
+margin-top: 17px;
+min-height: 65px;
+min-width: 354px;
+}
+.house-appliance-prod { align-self: flex-end; height: 244px; object-fit: cover; width: 347px;
+}
+.kisspng-computer-ico-2 {
+height: 68px;
+left: 1279px;
+object-fit: cover;
+position: absolute;
+top: 502px;
+width: 80px;
+}

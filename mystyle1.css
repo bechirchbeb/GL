@@ -1,0 +1,266 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,700,800|Montserrat:400");
+
+.page-1 {
+    align-items: flex-start;
+    background-color: #ff7b54;
+    border: 1px none;
+    display: flex;
+    width: 1440px;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.overlap-group3 {
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+}
+
+.overlap-group2 {
+    height: 68px;
+    left: 456px;
+    position: absolute;
+    top: 741px;
+    width: 527px;
+}
+
+.connexion {
+    color: #ffffff;
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    left: 118px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 291px;
+}
+
+.rectangle-14 {
+    background-color: var(--avocado);
+    border-radius: 8px;
+    height: 65px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 527px;
+}
+
+.lefty-1 {
+    height: 705px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 661px;
+}
+
+.lespoir-des-pauvres {
+    -webkit-text-stroke: 2px #ffb26b;
+    color: #1f150d;
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xxxl);
+    font-weight: 800;
+    left: 49px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+    width: 368px;
+}
+
+.vous-navez-pas-de-c {
+    color: transparent;
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    left: 566px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 850px;
+}
+
+.span1 {
+    color: var(--avocado);
+}
+
+.span0 {
+    color: var(--black);
+}
+
+
+.connexion-1 {
+    color: var(--black);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xxxl);
+    font-weight: 700;
+    left: 454px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 290px;
+}
+
+.saisissez-vos-inform {
+    color: var(--regent-gray);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    left: 543px;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+    position: absolute;
+    top: 380px;
+    width: 373px;
+}
+
+.white-rectangle {
+    background-color: #ebdcc3;
+    border-radius: 20px;
+    height: 711px;
+    left: 377px;
+    position: absolute;
+    top: 202px;
+    width: 685px;
+}
+
+.mot-de-passe-oubli {
+    color: var(--avocado);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 408;
+    left: 611px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 822px;
+}
+
+.pass-form {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 456px;
+    min-height: 89px;
+    position: absolute;
+    top: 594px;
+    width: 531px;
+}
+
+.overlap-group {
+    -webkit-backdrop-filter: blur(4px) brightness(100%);
+    align-items: flex-start;
+    backdrop-filter: blur(4px) brightness(100%);
+    border: 2px solid;
+    border-color: var(--ghost);
+    border-radius: 8px;
+    display: flex;
+    height: 35px;
+    min-width: 445px;
+    padding: 16px 40px;
+}
+
+.min-8-caractres {
+    letter-spacing: 0.1px;
+    line-height: 20px;
+    min-height: 23px;
+    white-space: nowrap;
+}
+
+.mot-de-passe {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 24px;
+    width: 175px;
+}
+
+.righty-1 {
+    height: 571px;
+    left: 727px;
+    object-fit: cover;
+    position: absolute;
+    top: 453px;
+    width: 713px;
+}
+
+.email-form {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 456px;
+    min-height: 89px;
+    position: absolute;
+    top: 475px;
+    width: 531px;
+}
+
+.email {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 24px;
+    width: 61px;
+}
+
+.nomexemplecom {
+    letter-spacing: 0.1px;
+    line-height: 20px;
+    min-height: 23px;
+    white-space: nowrap;
+}
+
+/* Variables */
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --scarpa-flow: rgba(84, 85, 99, 1);
+    --regent-gray: rgba(131, 133, 156, 1);
+    --avocado: rgba(147, 155, 98, 1);
+    --ghost: rgba(199, 200, 210, 1);
+
+    --font-ontsize-m: 16px;
+    --font-size-l: 20px;
+    --font-size-xl: 24px;
+    --font-size-xxl: 48px;
+    --font-size-xxxl: 64px;
+
+    --font-family-montserrat: "Montserrat";
+    --font-family-nunito: "Nunito";
+}
+
+
+input,input::placeholder{
+    height: 30px;
+    color: var(--regent-gray);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    font-style: normal;
+    border:none; 
+    background: transparent; 
+    outline: 0;
+}
+/* Classes */
+.nunito-normal-regent-gray-24px {
+    color: var(--regent-gray);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.montserrat-normal-scarpa-flow-20px {
+    color: var(--scarpa-flow);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    font-style: normal;
+}

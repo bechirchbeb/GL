@@ -1,0 +1,828 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito:700,500,800|Inter:400|Montserrat:400,500");
+
+.page-3 {
+    align-items: flex-start;
+    background-color: #ff7b54;
+    border: 1px none;
+    display: flex;
+    height: 1024px;
+    overflow: hidden;
+    padding: 0 9px;
+    width: 1416px;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.overlap-group7 {
+    height: 1153px;
+    margin-top: 9px;
+    position: relative;
+    width: 1422px;
+}
+
+.overlap-group4 {
+    height: 310px;
+    left: 21px;
+    position: absolute;
+    top: 292px;
+    width: 1369px;
+}
+
+.blue-check-overlap-group4,
+.blue-check-overlap-group6 {
+    align-items: flex-start;
+    background-color: var(--avocado);
+    border-radius: 20px;
+    display: flex;
+    height: 85px;
+    left: 1248px;
+    min-width: 85px;
+    padding: 14.3px 14.3px;
+    position: absolute;
+    top: 23px;
+}
+
+.kisspng-check-mark-s {
+    height: 77px;
+    object-fit: cover;
+    width: 82px;
+}
+
+.wooden-table {
+    height: 246px;
+    left: 13px;
+    object-fit: cover;
+    position: absolute;
+    top: 11px;
+    width: 246px;
+}
+
+/* .red-cross-overlap-group4 {
+    align-items: center;
+    background-color: var(--salmon);
+    border-radius: 20px;
+    display: flex;
+    height: 80px;
+    left: 1248px;
+    min-width: 80px;
+    padding: 0 16.9px;
+    posltion: absolute;
+    top: 147px;
+} */
+
+.kisspng-arrow-comput-1,
+.kisspng-arrow-comput-2 {
+    height: 71px;
+    object-fit: cover;
+    width: 71px;
+}
+
+.rectangle-30 {
+    background-color: var(--almond);
+    border-radius: 16px;
+    height: 269px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1369px;
+}
+
+.text-for-props-overlap-group4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 274px;
+    min-height: 290px;
+    position: absolute;
+    top: 20px;
+    width: 961px;
+}
+
+.table {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 2px;
+    min-height: 55px;
+}
+
+.lorem-ipsum-dolor-si-1,
+.lorem-ipsum-dolor-si-2 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 2px;
+    min-height: 165px;
+    width: 955px;
+}
+
+.description-1,
+.description-2 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 39px;
+    min-height: 29px;
+}
+
+.search-bar {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 110px;
+    left: 0;
+    min-height: 282px;
+    position: absolute;
+    top: 0;
+    width: 1422px;
+}
+
+.overlap-group1 {
+    align-items: center;
+    background-color: var(--avocado);
+    border: 3px solid;
+    border-color: #e1e6e6;
+    border-radius: 16px;
+    display: flex;
+    height: 83px;
+    min-width: 1384px;
+    padding: 13px 16px;
+}
+
+.navbar {
+    align-items: center;
+    display: flex;
+    margin-bottom: 7px;
+    margin-left: 153px;
+    min-width: 649px;
+    margin-right: 20px;
+}
+
+.navbar-link-surname {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 9px;
+    min-height: 27px;
+    min-width: 165px;
+}
+
+.line-3 {
+    height: 60px;
+    margin-left: 21px;
+    object-fit: cover;
+    width: 1px;
+}
+
+.line-4 {
+    height: 60px;
+    margin-left: 23px;
+    object-fit: cover;
+    width: 1px;
+}
+
+.navbar-link-propositions {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 9px;
+    min-height: 27px;
+    min-width: 154px;
+    margin-left: 13px;
+}
+
+.line-5 {
+    height: 60px;
+    margin-left: 23px;
+    object-fit: cover;
+    width: 1px;
+}
+
+.navbar-link-dons {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 26px;
+    margin-top: 9px;
+    min-height: 27px;
+    min-width: 60px;
+}
+
+.navbar-link-categories {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 23px;
+    margin-top: 9px;
+    min-height: 27px;
+    min-width: 127px;
+}
+
+.lespoir-des-pauvres {
+    -webkit-text-stroke: 2px var(--avocado);
+    color: var(--ebony-clay);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xxl);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 30px;
+    min-height: 60px;
+    width: 473px;
+}
+
+.avatar {
+    align-items: flex-start;
+    align-self: flex-start;
+    background-color: var(--alto);
+    border-radius: 16px;
+    display: flex;
+    height: 79px;
+    min-width: 79px;
+    padding: 2.8px;
+}
+
+.overlap-group-avatar {
+    align-items: flex-end;
+    background-color: var(--white);
+    border-radius: 16px;
+    display: flex;
+    height: 73px;
+    justify-content: flex-end;
+    min-width: 73px;
+    padding: 2.8px;
+}
+
+.avatar-other-main-avatar {
+    height: 74px;
+    width: 76px;
+}
+
+.overlap-group3 {
+    align-items: flex-start;
+    background-color: #ffd56b;
+    border-radius: 16px;
+    display: flex;
+    height: 36px;
+    justify-content: flex-end;
+    margin-right: 11px;
+    min-width: 1353px;
+    padding: 11px 15.9px;
+}
+
+.search-container {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--alto);
+    border-radius: 8px;
+    display: flex;
+    gap: 133px;
+    height: 20px;
+    min-width: 248px;
+    padding: 8.1px 14.2px;
+}
+
+.search-1 {
+    align-self: center;
+    height: 14px;
+    margin-bottom: 3.01px;
+    width: 16px;
+}
+
+.search {
+    color: #c4c4c4;
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxs);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 17px;
+    width: 67px;
+}
+
+.add-prop {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 45px;
+    left: 1157px;
+    min-width: 247px;
+    position: absolute;
+    top: 152px;
+}
+
+.overlap-group-add-prop {
+    align-items: flex-end;
+    background-color: var(--avocado);
+    border-radius: 4px;
+    display: flex;
+    height: 22px;
+    justify-content: flex-end;
+    min-width: 105px;
+    padding: 13.6px 63.9px;
+}
+
+.ajouter-un-don {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxs);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 17px;
+    width: 112px;
+}
+
+.gestion-des-dons {
+    color: var(--ebony-clay);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    left: 34px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 150px;
+}
+
+.overlap-group5 {
+    height: 321px;
+    left: 21px;
+    position: absolute;
+    top: 571px;
+    width: 1369px;
+}
+
+.text-for-props-overlap-group5 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 274px;
+    min-height: 290px;
+    position: absolute;
+    top: 31px;
+    width: 961px;
+}
+
+.t-shirt {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 2px;
+    min-height: 55px;
+}
+
+.red-cross-overlap-group4,
+.red-cross-overlap-group5,
+.red-cross-overlap-group6 {
+    align-items: center;
+    background-color: var(--salmon);
+    border-radius: 20px;
+    display: flex;
+    height: 80px;
+    left: 1248px;
+    min-width: 80px;
+    padding: 16.9px 16.9px;
+    position: absolute;
+    top: 147px;
+}
+
+.blue-check-overlap-group5 {
+    align-items: flex-end;
+    background-color: var(--avocado);
+    border-radius: 20px;
+    display: flex;
+    height: 85px;
+    left: 1248px;
+    min-width: 85px;
+    padding: 14.3px 14.3px;
+    position: absolute;
+    top: 23px;
+}
+
+.black-tshirt {
+    height: 246px;
+    left: 13px;
+    object-fit: cover;
+    position: absolute;
+    top: 11px;
+    width: 246px;
+}
+
+.overlap-group6 {
+    height: 303px;
+    left: 21px;
+    position: absolute;
+    top: 850px;
+    width: 1369px;
+}
+
+.plasma-tv {
+    height: 132px;
+    left: 13px;
+    object-fit: cover;
+    position: absolute;
+    top: 33px;
+    width: 246px;
+}
+
+.kisspng-arrow-comput-3 {
+    height: 1px;
+    object-fit: cover;
+    width: 71px;
+}
+
+.overlap-group-overlap-group6 {
+    height: 261px;
+    left: 276px;
+    position: absolute;
+    top: 42px;
+    width: 955px;
+}
+
+.description-3 {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 64px;
+}
+
+.lorem-ipsum-dolor-si-3 {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 96px;
+    width: 955px;
+}
+
+.ecran-plasma {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+}
+
+.rectangle-24 {
+    background-color: #ffb26be6;
+    border: 3px solid;
+    border-color: var(--almond);
+    border-radius: 16px;
+    height: 981px;
+    left: 0;
+    opacity: 0.9;
+    position: absolute;
+    top: 121px;
+    width: 1414px;
+}
+
+/* variables */
+
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --ebony-clay: rgba(43, 43, 67, 1);
+    --scarpa-flow: rgba(84, 85, 99, 1);
+    --waikawa-gray: rgba(98, 110, 155, 1);
+    --regent-gray: rgba(131, 133, 156, 1);
+    --avocado: rgba(147, 155, 98, 1);
+    --mist-gray: rgba(196, 196, 196, 1);
+    --ghost: rgba(199, 200, 210, 1);
+    --alto: rgba(217, 217, 217, 1);
+    --mercury: rgba(225, 230, 230, 1);
+    --almond: rgba(235, 220, 195, 1);
+    --lightning-yellow: rgba(250, 198, 15, 1);
+    --coral: rgba(255, 123, 84, 1);
+    --salmon: rgba(255, 135, 108, 1);
+    --rajah: rgba(255, 178, 107, 1);
+    --goldenrod: rgba(255, 213, 187, 1);
+    --white: rgba(255, 255, 255, 1);
+
+    --font-size-xxs: 14px;
+    --font-size-l: 36px;
+    --font-size-xl: 40px;
+    --font-size-xxl: 48px;
+    --font-size-xxxl: 64px;
+    --font-size-m2: 16px;
+    --font-size-l2: 20px;
+    --font-size-xl2: 24px;
+
+    --font-family-inter: "Inter";
+    --font-family-montserrat: "Montserrat";
+    --font-family-nunito: "Nunito";
+    --font-family-nunito-regular: "Nunito-Regular";
+}
+
+.nunito-bold-white-36px {
+    color: var(--white);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.nunito-medium-ebony-clay-40px {
+    color: var(--ebony-clay);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    font-style: normal;
+}
+
+.nunito-extra-bold-ebony-clay-48px {
+    color: var(--ebony-clay);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xxl);
+    font-weight: 800;
+    font-style: normal;
+}
+
+.montserrat-medium-ebony-clay-24px {
+    color: var(--ebony-clay);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl2);
+    font-weight: 500;
+    font-style: normal;
+}
+
+.nunito-medium-black-24px {
+    color: var(--black);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl2);
+    font-weight: 500;
+    font-style: normal;
+}
+
+.nunito-bold-ebony-clay-40px {
+    color: var(--ebony-clay);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.nunito-normal-regent-gray-24px {
+    color: var(--regent-gray);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl2);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nunito-regular-normal-black-40px {
+    color: var(--black);
+    font-family: var(--font-family-nunito-regular);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.montserrat-medium-white-14px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxs);
+    font-weight: 500;
+    font-style: normal;
+}
+
+.nunito-regular-normal-regent-gray-24px {
+    color: var(--regent-gray);
+    font-family: var(--font-family-nunito-regular);
+    font-size: var(--font-size-xl2);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nunito-bold-black-48px {
+    color: var(--black);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xxl);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.montserrat-normal-scarpa-flow-20px {
+    color: var(--scarpa-flow);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l2);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nunito-extra-bold-ebony-clay-20px {
+    color: var(--ebony-clay);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-l2);
+    font-weight: 800;
+    font-style: normal;
+}
+
+.nunito-normal-black-40px {
+    color: var(--black);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.montserrat-normal-mist-gray-14px {
+    color: Var(--mist-gray);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxs);
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+.FORMpage {
+    background-color: #bc5333;
+    width: 90%;
+    height: 300px;
+}
+
+.FORMpop-up-frame {
+    align-items: flex-start;
+    background-color: #00000080;
+    border: 1px none;
+    display: flex;
+    width: 920px;
+}
+
+#myForm {
+    display: none;
+    position: fixed;
+    z-index: 8;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.FORMpop-up-frame-1 {
+
+    align-items: center;
+    background-color: #ff7b54;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    height: 860px;
+    overflow: hidden;
+    padding: 27px 33px;
+    width: 920px;
+    margin: 10%;
+}
+
+.FORMtitle {
+    align-self: flex-start;
+    color: #2b2b43;
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 55px;
+}
+
+.FORMoverlap-group {
+    height: 130px;
+    margin-top: 1px;
+    position: relative;
+    width: 850px;
+}
+
+.FORMrectangle-3 {
+    background-color: var(--almond);
+    border: 5px solid;
+    border-color: var(--rajah);
+    border-radius: 15px;
+    height: 75px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 850px;
+}
+
+.FORMreference {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 80px;
+}
+
+.FORMpolygon-1 {
+    height: 16px;
+    left: 804px;
+    position: absolute;
+    top: 33px;
+    width: 18px;
+}
+
+.FORMnature-materiel {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 80px;
+}
+
+.FORMdescription {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 80px;
+}
+
+.FORMcategorie {
+    align-self: flex-start;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 2px;
+    min-height: 49px;
+}
+
+.FORMrectangle-39 {
+    background-color: var(--almond);
+    border: 5px solid;
+    border-color: var(--rajah);
+    border-radius: 15px;
+    height: 230px;
+    margin-top: 1px;
+    width: 850px;
+}
+
+
+
+.FORMcustom-select select {
+    background-color: rgb(235 220 190);
+    border: none;
+    color: #2b2b43;
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    font-style: normal;
+    width: 825px;
+    margin: 13px;
+}
+
+.FORMfieldForText input {
+    background-color: rgb(235 220 190);
+    border: none;
+    color: #2b2b43;
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    font-style: normal;
+    width: 825px;
+    margin: 13px;
+}
+
+.FORMdesc textarea {
+    background-color: rgb(235 220 190);
+    border: 2px;
+    border-color: black;
+    color: #2b2b43;
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-m2);
+    font-weight: 700;
+    font-style: normal;
+    width: 96%;
+    height: 50%;
+    margin: 13px;
+    resize: none;
+}
+
+#confirmAdd {
+    background-color: #939B62;
+    border: none;
+    border-radius: 15px;
+    color: #2b2b43;
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    margin-top: 10px;
+    float: right;
+}
+
+textarea:focus,
+input:focus {
+    outline: none;
+}
+
+.FORMopen-button{
+    width: 123px;
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-m2);
+    background-color: #939B62;
+    border: none;
+}
+
